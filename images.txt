@@ -1,1 +1,1 @@
-ceph/ceph:v16
+calico/cni:v3.30.0-0.dev-50-g1600ac9bc66b
