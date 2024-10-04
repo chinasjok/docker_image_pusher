@@ -1,1 +1,1 @@
-calico/cni:v3.30.0-0.dev-50-g1600ac9bc66b
+calico/cni:v3.18.0
