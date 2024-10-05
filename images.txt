@@ -1,1 +1,1 @@
-rancher/rancher-agent:v2.8.8
+rancher/rancher-agent:v2.8-head
