@@ -1,1 +1,2 @@
 rancher/rancher:v2.6.13-head
+rancher/rancher-agent:v2.6.13-head
